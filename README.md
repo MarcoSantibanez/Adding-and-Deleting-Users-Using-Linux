@@ -3,7 +3,7 @@
 In this project we were tasked with adding and deleting users for the company using linux. 
 
 
-First, analys added a new employee to the system and then to their primary group: 
+First, analyst added a new employee to the system and then to their primary group: 
 
 ![image](https://github.com/MarcoSantibanez/Adding-and-Deleting-Users-Using-Linux/assets/138132151/25327988-d103-4023-bfa0-66f3356f4259)
 
